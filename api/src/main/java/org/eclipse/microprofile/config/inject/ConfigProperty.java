@@ -29,10 +29,10 @@ import static org.osgi.service.cdi.CDIConstants.CDI_EXTENSION_PROPERTY;
 import java.lang.annotation.Retention;
 import java.lang.annotation.Target;
 
-import javax.enterprise.util.Nonbinding;
-import javax.inject.Qualifier;
-
 import org.osgi.annotation.bundle.Requirement;
+
+import jakarta.enterprise.util.Nonbinding;
+import jakarta.inject.Qualifier;
 
 /**
  * Binds the injection point with a configured value.

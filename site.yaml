@@ -20,7 +20,7 @@
 ---
 documentation:
   - title: Configuration for Microprofile
-    file: spec/src/main/asciidoc/microprofile-config-spec.asciidoc
+    file: spec/src/main/asciidoc/microprofile-config-spec-jee9.asciidoc
 
   - title: Architecture
     file: spec/src/main/asciidoc/architecture.asciidoc
