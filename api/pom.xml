@@ -18,11 +18,11 @@
 
     <parent>
         <groupId>org.eclipse.microprofile.config</groupId>
-        <artifactId>microprofile-config-parent-jee9</artifactId>
-        <version>2.1-SNAPSHOT</version>
+        <artifactId>microprofile-config-parent</artifactId>
+        <version>3.0-ibm20210323</version>
     </parent>
 
-    <artifactId>microprofile-config-api-jee9</artifactId>
+    <artifactId>microprofile-config-api</artifactId>
     <name>MicroProfile Config API</name>
     <description>MicroProfile Config :: API</description>
 
@@ -40,7 +40,7 @@
             <artifactId>org.osgi.service.cdi</artifactId>
         </dependency>
     </dependencies>
-    
+
 
 
 </project>
